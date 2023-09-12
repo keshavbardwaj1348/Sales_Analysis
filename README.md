@@ -1,5 +1,5 @@
 Conclusion of the Data Analysis:
-  Married women age group 26-35 yrs from UP, Maharastra and Karnatka working in IT, Healthcare and aviation are more likely to buy products from food clothing and       electronics category.
+* Married women age group 26-35 yrs from UP, Maharastra and Karnatka working in IT, Healthcare and aviation are more likely to buy products from food clothing and       electronics category.
 
 Project Learning:
 1. Performed data cleaning and manipulation
